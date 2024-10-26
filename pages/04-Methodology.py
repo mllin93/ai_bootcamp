@@ -7,6 +7,9 @@ import streamlit as st
 
 st.title("Methodology")
 
+# Display image
+st.image("pictures/methodology.png")
+
 st.subheader("How the app was created:")
 
 st.markdown("""
