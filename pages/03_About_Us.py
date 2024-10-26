@@ -32,7 +32,9 @@ st.write("""
     To ensure the accuracy and reliability of the information provided, we utilize data from the following sources:
 """)
 st.markdown("""
-- **Inland Revenue Authority of Singapore (IRAS) official website**: The official government body responsible for tax collection and regulation in Singapore.
+- **CPF Board**
+- **Ministry of Manpower**
+- **Associated partners** 
 
 """)
 
