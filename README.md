@@ -1,19 +1,28 @@
-Tax Relief Calculator & Smart Chatbot
+CPF Contribution Guide for Employers
 
-This is a Streamlit web application designed to help tax residents calculate their tax payable with ease. The application provides a comprehensive tax relief calculator and a smart chatbot for quick answers to tax-related questions.
+A Streamlit web application to assist Singapore employers in understanding and fulfilling their CPF obligations.
 
-Features
-1. Smart Chatbot 🤖
-Retrieval Augmented Generation (RAG): The chatbot leverages RAG to provide accurate and relevant responses to your tax queries, ensuring high-quality answers.
-24/7 Assistance: Accessible anytime, helping you with tax-related questions without the need to wait for business hours.
+Features:
 
-2. Tax Relief Calculator 💰
-Comprehensive Calculation: The calculator considers multiple tax reliefs and deductions to generate an accurate estimate of your assessable income.
+Smart Chatbot 🤖
 
-IMPORTANT NOTICE
+Accurate and relevant answers: Powered by Retrieval Augmented Generation (RAG) to provide timely and informative responses to your CPF queries.
+24/7 assistance: Available round-the-clock to help you with your CPF-related questions as an employer.
+CPF Contribution Calculator 💰
 
-This web application is a prototype developed for educational purposes only. The information provided here is NOT intended for real-world usage and should not be relied upon for making any decisions, especially those related to financial, legal, or healthcare matters.
+Accurate calculations: A user-friendly calculator to determine the correct CPF contributions for your employees.
+Easy-to-use interface: A simple and intuitive design for quick and efficient calculations.
 
-Furthermore, please be aware that the LLM may generate inaccurate or incorrect information. You assume full responsibility for how you use any generated output.
+Key Benefits:
 
-Always consult with qualified professionals for accurate and personalized advice.
+Clear and concise information: Understand CPF regulations, deadlines, and penalties.
+Accurate calculations: Ensure correct CPF contributions for all employees.
+Timely assistance: Get answers to your CPF questions instantly.
+Peace of mind: Avoid potential penalties and compliance issues.
+Important Notice
+
+This web application is a prototype intended for educational purposes only. The information provided here is NOT intended for real-world usage and should not be relied upon for making any decisions related to CPF contributions or employer obligations.
+
+Please note that the information provided may be incomplete or inaccurate. It is crucial to consult the official CPF website or seek advice from a qualified tax advisor or accountant for accurate and up-to-date guidance.
+
+The developer of this application assumes no liability for any actions taken based on the information provided.

@@ -8,6 +8,9 @@ import prep_data
 #     st.stop()
 
 st.title("Ask me anything about CPF contributions for your employees!")
+
+st.sidebar.image('pictures/ask_me_anything.png', use_column_width=True)
+
 form = st.form(key="form")
 
 user_prompt = form.text_area("Enter your query regarding your CPF obligations as an employer here:", height=200)

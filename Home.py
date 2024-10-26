@@ -8,19 +8,15 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
+import prep_data
 
 # Do not continue if check_password is not True.  
 if not check_password():  
     st.stop()
 
-# mbs_otters_path = "pictures/mbs_otters.png"  
-# iras_logo_path = "pictures/iras logo.png"  
 
 st.sidebar.write("This guide provides clear and concise information on CPF regulations, deadlines, and penalties, ensuring compliance and avoiding unnecessary financial burdens. Whether you’re a small business owner or a large corporation, this app is your go-to tool for accurate CPF calculations and informed decision-making.")
 
-# # Display the logo at the top of the sidebar
-# st.sidebar.image(iras_logo_path, use_column_width=True)  # `use_column_width` makes the logo fit the sidebar's width
-# st.sidebar.image(mbs_otters_path, use_column_width=True)  # `use_column_width` makes the logo fit the sidebar's width
 
 # Add some content to the main app
 col1, col2, col3 = st.columns([1, 1.8, 1])
